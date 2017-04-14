@@ -9,3 +9,7 @@
 
 ## windows.js -- 关于nodejs在windows下的一些操作练习
 1.使用nodejs遍历windows下的盘符
+
+## login_linux.js -- 关于适用node链接服务器，进行相关操作的练习
+1.这个demo中介绍了使用ssh2进行链接的方式；
+2.使用成功的链接进行 uptime操作
