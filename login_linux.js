@@ -17,7 +17,7 @@ conn.on('ready', function() {
 		});
 	});
 }).connect({
-	host: '123.59.138.106', //需要服务器的外网IP
+	host: '122.5.138.106', //需要服务器的外网IP
 	port: 22,
 	username: 'root',
 	privateKey : key
